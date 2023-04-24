@@ -1,0 +1,21 @@
+.form-valid{
+    border: 1px solid limegreen;
+    border-left: 15px solid limegreen;
+    box-shadow: 0 2px 5px limegreen;
+}
+.form-invalid{
+    border: 1px solid orangered;
+    border-left: 15px solid orangered;
+    box-shadow: 0 2px 5px orangered;
+}
+.text-success{
+    color: limegreen;
+    font-size: 15px;
+}
+.text-failure{
+    color: orangered;
+    font-size: 15pxs;
+}
+.bg-secondary{
+    background: linear-gradient(45deg,coral,lightblue,darkgreen);
+}
